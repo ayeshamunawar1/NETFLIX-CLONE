@@ -1,2 +1,2 @@
-# NETFLIX-CLONE
- COMPLETED NETFLIX CLONE
+# Netflix-Website-Clone
+I've successfully crafted a Netflix Website clone.
